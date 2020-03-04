@@ -35,19 +35,3 @@ $(document).ready(function(){
 	});
 });
 
- // var backwardString = StringAsArray.reverse();
-    // console.log(backwardString);
-    
-    // var concatedString = StringAsArray.concat(` ${backwardString.join("")}`).join("");       
-    // console.log(concatedString);
-
-
-/* 
-Prompt user to enter string.
-
-Take in string vale and use .split("") to make it into and array.
-
-(Reverse that array, concat it to the original and .join() it? display this in output div.)
-
-
- */
